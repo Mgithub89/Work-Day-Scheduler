@@ -3,7 +3,7 @@
 
 Explore the [project-page](https://github.com/Mgithub89/Work-Day-Scheduler.git)
 
-View the [deployed-app]()
+View the [deployed-app](https://mgithub89.github.io/Work-Day-Scheduler/)
 
 ### Table of contents
    * [About The project](#About-The-Project)

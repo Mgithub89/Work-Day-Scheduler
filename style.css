@@ -19,7 +19,9 @@ body {
     color: black;
     border-radius: 0;
     border-bottom: 10px solid black;
-  }
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnGaIiGGUqM9fzQlo86Da02qkd1268x9d82g&usqp=CAU");
+    background-size: cover;
+}
   
   .description{
     white-space: pre-wrap;
@@ -29,6 +31,8 @@ body {
     text-align: center;
     /* border-radius: 15px; */
     background-color: #ae9;
+    border-left: 1px solid black;
+    border-top-left-radius: 15px;
     padding-top: 1.5rem;
 
   }

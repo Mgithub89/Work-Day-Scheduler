@@ -17,7 +17,7 @@ View the [deployed-app](https://mgithub89.github.io/Work-Day-Scheduler/)
   This app displays current day at the top of the callendar by using **Moment.js** and allows a user to create a schedule for each colored time block that indicates whether it is in the past(grey colored), present(red colored) or future(green colored). The user can also enter an event and save in local storage .
 
 ## Mock-Up
-![Ui](Dailyplanner.PNG)
+![Ui](Capture.PNG)
 
 ## Built With 
    * HTML

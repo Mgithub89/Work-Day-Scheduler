@@ -13,8 +13,8 @@ View the [deployed-app](https://mgithub89.github.io/Work-Day-Scheduler/)
 
  ## About The Project 
   
-  The objective of this project is create a simple calendar application that allows a user to save events for each standard working hour of the day based on a user acceptance criteria.
-  This app displays current day at the top of the callendar by using **Moment.js** and allows a user to create a schedule for each colored time block that indicates whether it is in the past(grey colored), present(red colored) or future(green colored). The user can also enter an event and save in local storage .
+  The objective of this project is to create a simple calendar application that allows a user to save events for each standard working hour of the day based on a user acceptance criteria.
+  This app displays current day at the top of the callendar by using **Moment.js** and allows a user to create a schedule for each colored time block that indicates whether it is in the past(grey colored), present(red colored) or future(green colored). The user can also enter an event and save in local storage by clicking the save button.
 
 ## Mock-Up
 ![Ui](Capture.PNG)
